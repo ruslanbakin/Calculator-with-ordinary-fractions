@@ -1,1 +1,1 @@
-# Calculator-with-ordinary-fractions
+Калькулятор для работы с обыкновенными дробями
